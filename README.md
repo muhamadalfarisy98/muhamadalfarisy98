@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhamadalfarisy98&theme=synthwave)
+  
 </div>
-<br>
+
 <div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy98&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <div>
