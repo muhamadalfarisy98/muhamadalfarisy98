@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 </div>
 </br>
 <div align="center">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy98&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-<div>
+  
+</div>
 
