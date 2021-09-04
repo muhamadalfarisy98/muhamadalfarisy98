@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </br>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy98&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy98&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy98&theme=buefy&layout=compact&langs_count=10)
   
