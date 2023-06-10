@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 , i'm a software and an electrical engineer :D
 
 
 <!-- **muhamadalfarisy98/muhamadalfarisy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
+I'm currently work as a Backend Engineer. Mainly using golang, python and nodejs. Related technologies are microservices (rest, grpc, graphql), odoo, caching (redis and inmemcache), and pubSub (message broker).
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... -->
 - 👯 I’m looking to collaborate on any freelance web dev project, or fulltime job!
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: muhamadalfarisy98@gmail.com
+- 📫 How to reach me: muhamadalfarisy98@gmail.com or https://www.linkedin.com/in/muhamadalfarisy/
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: i mainly focused on backend dev using golang, python, nodejs.
 
