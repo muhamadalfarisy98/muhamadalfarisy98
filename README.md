@@ -16,16 +16,18 @@ I'm currently working as a Backend Engineer. Mainly using golang, python and nod
 - ⚡ Fun fact: i mainly focused on backend dev using golang, python, nodejs.
 
 <div align="center">
-  
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhamadalfarisy98&theme=synthwave)
   
+  <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy98&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy98&theme=buefy&layout=compact&langs_count=10)
+  
 </div>
+
 </br>
 <div align="center">
   
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy98&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy98&theme=buefy&layout=compact&langs_count=10)
+
   
 </div>
 
