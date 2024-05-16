@@ -6,6 +6,8 @@
 <!-- Here are some ideas to get you started: -->
 I'm currently working as a Backend Engineer. Mainly using golang, python and nodejs. Related technologies that being used are microservices (rest, grpc, graphql), odoo, caching (redis and inmemcache), and pubSub (message broker).
 
+https://muhamadalfarisy98.github.io/portfolio/ 
+
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... -->
 - 👯 I’m looking to collaborate on any freelance web dev project, or fulltime job!
