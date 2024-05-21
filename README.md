@@ -15,7 +15,7 @@ https://muhamadalfarisy98.github.io/portfolio/
 - 💬 Ask me about ... -->
 - 📫 How to reach me: muhamadalfarisy98@gmail.com or https://www.linkedin.com/in/muhamadalfarisy/
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: i mainly focused on backend dev using golang, python, nodejs.
+- ⚡ Fun fact: i mainly focused on backend dev using golang, python, nodejs, but also can dev using reactjs *if necessary
 
 <div align="center">
   
