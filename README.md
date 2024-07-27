@@ -26,6 +26,12 @@ https://muhamadalfarisy98.github.io/portfolio/
   
 </div>
 
+<div align="center">
+  
+  ![Coding Stack](https://raw.githubusercontent.com/muhamadalfarisy98/muhamadalfarisy98/main/coding-stack.gif)
+  
+</div>
+
 </br>
 <div align="center">
 <!--      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadalfarisy98&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
