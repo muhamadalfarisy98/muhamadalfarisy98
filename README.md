@@ -4,7 +4,7 @@
 <!-- **muhamadalfarisy98/muhamadalfarisy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-I'm currently working as a Backend Engineer. Mainly using golang, python and nodejs. Related technologies that being used are microservices (rest, grpc, graphql), odoo, caching (redis and inmemcache), and pubSub (message broker).
+I'm currently working as a Backend Engineer. Mainly using golang, python,java and nodejs. Related technologies that being used are microservices (rest, grpc, graphql), Odoo, caching (redis and inmemcache), and pubSub (message broker).
 
 https://muhamadalfarisy98.github.io/portfolio/ 
 
